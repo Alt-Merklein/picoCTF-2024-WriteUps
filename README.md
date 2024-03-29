@@ -1,7 +1,7 @@
 # Pico-CTF-2024-WriteUps
 Uploading my solutions for pico-ctf 2024 competition.
 
-Still writing some of the Reverse Engineer solutions
+Still writing some of the Reverse Engineering solutions.
 
 # Contents:<br> 
   **- Web Exploitation** 
